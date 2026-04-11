@@ -7,7 +7,10 @@
 3. 使用 Gemini 模型分析郵件內容，判斷是否需要建立行事曆事件。
 4. 將符合條件的郵件轉換為 Google Calendar 事件。
 5. 依照郵件是否包含明確時間，分流建立「全天事件」或「指定時間事件」。
-<img width="1501" height="468" alt="螢幕擷取畫面 2026-04-11 060139" src="https://github.com/user-attachments/assets/acf7c099-30a6-4fa2-a454-b07c5195a7d6" />
+
+workflow架構
+<img width="1430" height="413" alt="image" src="https://github.com/user-attachments/assets/29618417-8dc6-4874-9cbc-5870914b18e5" />
+寫入測試
 <img width="869" height="544" alt="測試img" src="https://github.com/user-attachments/assets/2d95ed49-3901-4f60-8157-969b0e8e433c" />
 
 
